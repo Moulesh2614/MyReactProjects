@@ -30,8 +30,10 @@ class JSXDemo extends React.Component {
 
 }
 
+
+//Conditionals in JSX
 class NumPicker extends React.Component{
-    //Conditionals in JSX
+    
     // render(){
     //     const num = getNum();
 
